@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(2, 6, 43, 0.281);
+}
+
+hr {
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: white;
+}
+
+h1 {
+    color: #0A4B0A;
+}
+
+h3 {
+    color: #0A4B0A;
+}
+
+#name {
+    color: tomato;
+}
+.username {
+    color: antiquewhite;
+}
